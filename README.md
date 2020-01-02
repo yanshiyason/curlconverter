@@ -2,6 +2,8 @@
 
 Convert cURL syntax to native Python, Go, PHP, JavaScript, R, Elixir and Dart HTTP code
 
+Convert cURL to elixir.
+
 ## Live Demo
 
 https://curl.trillworks.com
